@@ -1,0 +1,92 @@
+body {
+  background: url(../img/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+
+/* .navbar {
+    text-align: center;
+    height: 6.5vh;
+    overflow: hidden;
+    position: absolute;
+    backface-visibility: hidden;
+    top: 0;
+    width: 100%;
+    right: 0%;
+    background: #28292a;
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    transition: all 0.6s;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    font-weight: 500;
+  } */
+
+  .forside {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.6vh;
+    left: 46%;
+    top: 33%;
+    position: absolute;
+  }
+
+  .regler {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.6vh;
+    left: 50.5%;
+    top: 33%;
+    position: absolute;
+  }
+  
+  .dashboard {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.6vh;
+    left: 52%;
+    top: 33%;
+    position: absolute;
+  }
+
+.jumbotron {
+    background-color: #28292a;
+    color: #fff;
+    border: 3px solid #484848;
+    width: 550px;
+    height: 523px;
+    /* margin-left: 450px; */
+    padding: 200px;
+    /* top: 14%; */
+    margin-bottom: 10px;
+    position: absolute;
+    top: 64%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  hr {
+    background: red;
+    overflow: visible;
+    overflow-y: visible;
+    overflow-x: visible;
+    position: absolute;
+    width: 1000px;
+    height: 3px;
+    border: 0px;
+  }
+
+  p {
+    overflow: visible;
+    overflow-y: visible;
+    overflow-x: visible;
+    position: absolute;
+  }
